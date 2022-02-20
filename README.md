@@ -4,3 +4,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 ## Conteúdo:
 * ### JavaScript: 
 	* Fundamentos
+	* Estruturas de Controle

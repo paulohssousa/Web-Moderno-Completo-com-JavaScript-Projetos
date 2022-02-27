@@ -7,5 +7,6 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 	* Estruturas de Controle
 	* Funções
 	* Objeto
+	* Array
 	* Exercícios:
 		1. Fundamentos, Estruturas e Funções

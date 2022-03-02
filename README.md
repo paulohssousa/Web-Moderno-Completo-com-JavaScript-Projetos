@@ -8,5 +8,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 	* Funções
 	* Objeto
 	* Array
-	* Exercícios:
-		1. Fundamentos, Estruturas e Funções
+	* Exercícios

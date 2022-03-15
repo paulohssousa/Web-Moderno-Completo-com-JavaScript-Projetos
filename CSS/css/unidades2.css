@@ -1,0 +1,18 @@
+.fora{
+    position: relative;
+    background-color: darkseagreen;
+    height: 400px;
+    width: 400px;
+    padding: 50px;
+}
+
+.dentro{
+    background-color: mediumslateblue;
+    height: 100px;
+    width: 100%;
+    position: static; /* conteudo*/
+    position: relative; /* conteudo */
+    position: absolute; /* conteudo + padding */
+    position: fixed; /* viewport */
+
+}

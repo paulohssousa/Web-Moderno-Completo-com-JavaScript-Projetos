@@ -1,0 +1,18 @@
+/* 
+https://www.w3schools.com/colors/colors_hsl.asp
+
+https://coolors.co/
+http://paletton.com/
+*/
+
+body {
+    background-color: rosybrown;
+    background-color: #f3287f;
+    background-color: #789;
+    background-color: #addc44aa;
+    background-color: rgb(75, 200, 20);
+    background-color: rgba(150, 50, 100, .5);
+    /* hue, saturation e lightness */
+    background-color: hsl(24, 90%, 30%);
+    background-color: rgba(97, 47, 14, 0.582);
+}

@@ -1,0 +1,25 @@
+.selector {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    /* multiples values */
+    border: solid 5px navy; /* shorthand property */
+    font-family: Helvetica, sans-serif;
+    /* functions */
+    width: calc(100% - 30px);
+    background-color: rgb(34, 120, 220);
+}
+
+/* Using a pseudo-class */
+.selector:hover {
+    background-color: blueviolet;
+}
+
+/* Using a pseudo-element */
+.selector::first-letter {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* Patterns of writing */
+/* cammelCase or dash-case */

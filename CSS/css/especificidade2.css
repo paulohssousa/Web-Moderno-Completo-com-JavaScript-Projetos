@@ -1,0 +1,15 @@
+/* https://specificity.keegan.st/ */
+/* 
+    1. inline
+    2. ID
+    3. Classe, Pseudo-Classe, atributo
+    4. Elemento, Pseudo-Elementos
+*/
+
+body { font-size: 40px; }
+
+div { background-color: blue; color: azure; }
+div[wm-cor] { background-color: rgb(21, 92, 68); }
+div.estilo { background-color: green; }
+div:hover { background-color: blueviolet; }
+#unico1, #unico2 {background-color: black; }

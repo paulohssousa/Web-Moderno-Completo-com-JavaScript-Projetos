@@ -15,3 +15,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **CSS**
 * ### **Integrando HTML, CSS e JS (DOM)**
 * ### **AJAX**
+* ### **Gulp**

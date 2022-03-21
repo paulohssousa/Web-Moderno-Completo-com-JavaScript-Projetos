@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(18, 194, 207, 0.349);
+    background-image: url(../images/Kwaidan.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}

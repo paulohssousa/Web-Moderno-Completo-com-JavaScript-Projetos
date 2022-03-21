@@ -16,3 +16,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **Integrando HTML, CSS e JS (DOM)**
 * ### **AJAX**
 * ### **Gulp**
+* ### **Webpack**

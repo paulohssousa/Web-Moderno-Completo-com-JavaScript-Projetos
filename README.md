@@ -18,3 +18,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **Gulp**
 * ### **Webpack**
 * ### **JQuery**
+* ### **Bootstrap**

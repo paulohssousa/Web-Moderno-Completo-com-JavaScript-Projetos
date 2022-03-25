@@ -20,3 +20,4 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **JQuery**
 * ### **Bootstrap**
 	* Projeto Galeria (Bootstrap/jQuery/Webpack)
+* ### **React**

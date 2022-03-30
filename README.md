@@ -22,4 +22,5 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 	* Projeto Galeria (Bootstrap/jQuery/Webpack)
 * ### **React**
 	* Projeto Calculadora
+	* Projeto Cadastro de Usuário
 	

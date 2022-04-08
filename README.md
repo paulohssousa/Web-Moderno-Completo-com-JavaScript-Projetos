@@ -23,4 +23,7 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **React**
 	* Projeto Calculadora
 	* Projeto Cadastro de Usuário
+* ### **Next.js**
+	* Fundamentos
+	* Projeto Cadastro - Integração com Banco de Dados (Firestore)
 	

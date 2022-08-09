@@ -27,4 +27,6 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 	* Fundamentos
 	* Projeto Cadastro - Integração com Banco de Dados (Firestore)
 * ### **VueJS**
+	* Projeto QRCode e Sumário de Vendas
+	* Projeto Calculadora
 	

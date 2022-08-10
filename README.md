@@ -29,4 +29,7 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **VueJS**
 	* Projeto QRCode e Sumário de Vendas
 	* Projeto Calculadora
+	* Projeto Monty Hall
+	* Aplicação Desktop com JavaScript, ElectronJS e VueJs
+* ### **Angular 9**
 	

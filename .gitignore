@@ -17,3 +17,7 @@ node_modules
 dist
 
 public/dist
+
+.legendas
+
+.srt

@@ -32,4 +32,6 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 	* Projeto Monty Hall
 	* Aplicação Desktop com JavaScript, ElectronJS e VueJs
 * ### **Angular 9**
+* ### **Banco Relacional**
+* ### **Banco Não Relacional**
 	

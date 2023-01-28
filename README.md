@@ -35,4 +35,5 @@ Este curso foi criado por Leonardo Moura Leitão - Cod3r Cusos Online e disponib
 * ### **Banco Relacional**
 * ### **Banco Não Relacional**
 * ### **Express**
+* ### **Projeto Base de Conhecimento (Backend + Frontend)
 	
